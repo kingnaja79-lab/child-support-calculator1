@@ -71,7 +71,7 @@ st.set_page_config(page_title="나자현 변호사의 양육비 계산기", page
 st.title("🧮 자녀 양육비 1분 계산기")
 st.markdown("##### 창원·경남 **나자현 변호사**가 **우리 지역 부모님**들을 위해 직접 만들었습니다.")
 
-st.info("💡 금액은 '만원 단위'로 입력해 주세요. (예: 200 = 200만 원)")
+st.info("💡 금액은 **만원 단위**로 입력해 주세요. (예: 200 = 200만 원)")
 
 with st.container():
     col1, col2 = st.columns(2)
